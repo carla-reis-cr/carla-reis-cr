@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou a Carla Reis</h1>
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor JS, React, React Native</h3>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
