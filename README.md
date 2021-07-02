@@ -88,3 +88,5 @@
   <a  href="https://discord.gg/wWVTYd3"  target="_blank"><img src='https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg'  alt='discord' height='40'></a>
 </p>
 <br />
+
+![Snake animation](https://github.com/carla-reis-/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
