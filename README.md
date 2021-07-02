@@ -1,4 +1,4 @@
-<h3>Carla Reis <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></h3>
+<h2>Carla Reis <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></h2>
 <p>
 <a href="https://app.rocketseat.com.br/me/carlacrreis-1612562695161" target="_blank" rel="nofollow"><img align="right" width="27rem" src="rocketseat.png"/></a>
   <a  href="https://www.facebook.com/reis.carla.cr/"  target="_blank"><img align="right" width="27rem" src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg'  alt='facebook'></a> 
@@ -77,7 +77,7 @@
 </details>
 <hr />
 
-<h1  align=center>🤘🏻🥳Um pouco de diversão...🥳🤘🏻</h1>
+<h3  align=center>🤘🏻🥳Um pouco de diversão...🥳🤘🏻</h3>
 
 <p  align=center>
   
