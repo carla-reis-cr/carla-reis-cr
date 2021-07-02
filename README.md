@@ -89,4 +89,4 @@
 </p>
 <br />
 
-![Snake animation](https://github.com/carla-reis-/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
