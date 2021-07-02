@@ -1,17 +1,22 @@
+<h3>Carla Reis <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></h3>
 
-<h1  align=center>Olá<img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"></a> Tudo bem? Eu sou a <a  href='https://keen-banach-70690c.netlify.app/'  target='_blank'>Carla</a></h1>
-<hr />
+<a href="https://app.rocketseat.com.br/me/carlacrreis-1612562695161" target="_blank" rel="nofollow"><img align="right" width="23rem" src="./assets/rocketseat.png" alt="Rocketseat: @carlacrreis-1612562695161"/></a>
+<a href="https://www.instagram.com/felipeobrenner/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="./assets/instagram.png" alt="Instagram: @felipeobrenner"/></a>
+<a href="https://www.linkedin.com/in/felipe-de-oliveira-brenner/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="./assets/linkedin.png" alt="LinkedIn: @felipe-de-oliveira-brenner"/></a>
+
+---
+
+- 🎓 Formado em **Técnico em Contabilidade** na **Escola Cenecista Estância Velha**
+- 💻 Cursando **Ciências da Computação** na **Feevale**
+- 💻 Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em **T-SQL (SQL Server)** , **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)**
+- 💻 Experiência com projetos e estudos em **C++** e **Java** e estudando novas tecnologias como **React.js**, **React Native** e **Node.js**
+- 🌱 Atualmente, estou aprendendo Desenvolvimento Full Stack
+---
 
 <p  align="center"><img src='https://gpvc.arturio.dev/carla-reis-cr' alt='Views'><br /></p>
 <p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=carla-reis-cr&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=carla-reis-cr&theme=tokyonight_duo&hide_border=true" alt="carla-reis-cr readme streaks" /></p>
 
 <hr />
-
-<p align=center>Sou programadora com pedigree de negócio<br><br>
-Com formação em Rotinas Contábeis<br>
-Skills: TYPESCRIPT, NESTJS, WEB DEVELOPMENT E HACKING(ESTUDOS NO TEMPO VAGO)<br>
-- 🌱 Atualmente, estou aprendendo Desenvolvimento Full Stack</p>
-
 <br />
 
 <table align=center>
