@@ -25,7 +25,8 @@
   <br>
 <p  align="center"><img src='https://gpvc.arturio.dev/carla-reis-cr' alt='Views'><br /></p>
 <p  align="center"><img  src="https://github-readme-stats.vercel.app/api?username=carla-reis-cr&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=carla-reis-cr&theme=tokyonight_duo&hide_border=true" alt="carla-reis-cr readme streaks" /></p>
-
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-reis-cr&layout=compact&langs_count=16&theme=dracula"/>
 </details>
 <hr />
 <details>
