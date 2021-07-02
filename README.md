@@ -79,6 +79,7 @@
 
 <h3  align=center>🤘🏻🥳Um pouco de diversão...🥳🤘🏻</h3>
 
+<div align=center>
 <p  align=center>
   
   <a  href="https://www.tiktok.com/@devzueira?lang=pt-BR"  target="_blank"><img  src='https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/TikTok.svg'  alt='tiktok' height='40'></a>
@@ -88,6 +89,6 @@
   <a  href="https://discord.gg/wWVTYd3"  target="_blank"><img src='https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg'  alt='discord' height='40'></a>
 </p>
 <br />
-<div align-center>
+
 ![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
 </div>
