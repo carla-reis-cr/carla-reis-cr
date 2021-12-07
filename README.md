@@ -11,11 +11,10 @@
 ---
   
  🎓 Formada em **Técnico em Contabilidade** na **Escola Cenecista Estância Velha**<br>
- 🎓 Frequentando em **Ciências da Computação** na **Feevale**<br>
- 🎓 Possuo Bolsa de Iniciação Cientifica pela Universidade onde estudo<br>
+ 🎓 Frequentando em **Ciências da Computação** na **Universidade Feevale**<br>
  💻 Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em **T-SQL (SQL Server)** , **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)**<br>
  💻 Experiência com projetos e estudos em **C** e **Java** e estudando novas tecnologias como **React.js**, **React Native** e **Node.js**<br>
- 🌱 Atualmente, focada em aprender **Desenvolvimento Full Stack**<br>
+ 🌱 Atualmente, focada em tornar-me uma **Developer Full Stack**<br>
  
 ---
 </p>
