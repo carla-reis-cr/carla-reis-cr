@@ -12,7 +12,7 @@
   
  🎓 Formada em **Técnico em Contabilidade** na **Escola Cenecista Estância Velha**<br>
  🎓 Frequentando em **Ciências da Computação** na **Universidade Feevale**<br>
- 💻 Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em **T-SQL (SQL Server)** , **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)**<br>
+ 💻 Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em **T-SQL (SQL Server)** , **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa) para código legado e em projetos Web como frontend, usando ReactJS**<br>
  💻 Experiência com projetos e estudos em **C** e **Java** e estudando novas tecnologias como **React.js**, **React Native** e **Node.js**<br>
  🌱 Atualmente, focada em tornar-me uma **Developer Full Stack**<br>
  
