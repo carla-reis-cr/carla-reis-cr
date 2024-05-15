@@ -79,7 +79,7 @@
 
 
 <br>
- <h1  align=left>Onde me achar?</h1>
+ <h3  align=left>Onde me achar?</h3>
 <div align=left>
   <a  href="https://www.tiktok.com/@devzueira?lang=pt-BR"  target="_blank"><img  src='https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/TikTok.svg'  alt='tiktok' height='40'></a>
   <a  href="https://open.spotify.com/user/carla_reis?si=780378a28c844864"  target="_blank"><img src='https://github.com/shgysk8zer0/logos/blob/master/spotify.svg'  alt='spotify' height='40'></a>
