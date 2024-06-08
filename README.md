@@ -76,17 +76,5 @@
 </details>
 <hr />
 
-
-
-<br>
- <h3  align=left>Onde me achar?</h3>
-<div align=left>
-  <a  href="https://www.tiktok.com/@devzueira?lang=pt-BR"  target="_blank"><img  src='https://github.com/AliasIO/Wappalyzer/blob/master/src/drivers/webextension/images/icons/TikTok.svg'  alt='tiktok' height='40'></a>
-  <a  href="https://open.spotify.com/user/carla_reis?si=780378a28c844864"  target="_blank"><img src='https://github.com/shgysk8zer0/logos/blob/master/spotify.svg'  alt='spotify' height='40'></a>
-    <a  href="https://twitter.com/CR_CarlaReis"  target="_blank"><img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg'  alt='twitter' height='40'></a> 
-  <a  href="https://www.youtube.com/channel/UC-u5gIRx2MurT7IP4MCxSBg"  target="_blank"><img  src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg'  alt='YouTube' height='40'></a> 
-  <a  href="https://discord.gg/wWVTYd3"  target="_blank"><img src='https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg'  alt='discord' height='40'></a>
-<br />
-
 ![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
 </div>
