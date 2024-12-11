@@ -10,13 +10,13 @@
  
 ---
 🎓 Formada como **Técnica Contabil**<br>
-🎓 Atualmente, cursando 8° Semestre de **Ciências da Computação** na **Universidade Feevale**.<br>
-💻 Trabalho na **Cigam Software Corporativo S.A.**, onde me especializo em desenvolvimento em **T-SQL (SQL Server)**, **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)** para manutenção de código legado e também participo de projetos web como frontend, utilizando **ReactJS**.<br>
+🎓 Atualmente, cursando 9° Semestre de **Ciências da Computação** na **Universidade Feevale**.<br>
+💻 Trabalho na **Cigam Software Corporativo S.A.**, onde utilizo para desenvolvimento em **T-SQL (SQL Server)**, **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)** para manutenção de código legado e também participo de projetos web como frontend, utilizando **ReactJS**.<br>
 💻 Além disso, tenho experiência em projetos e estudos nas linguagens **C** e **Java** e estou constantemente atualizando meu conhecimento em tecnologias como **React.js**, **React Native** e **Node.js**<br>
  
 ---
 </p>
-
+<!--
 <details>
   <summary>📈 <b>GitHub Stats</b></summary>
   <br>
@@ -25,6 +25,7 @@
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-reis-cr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+-->
 </details>
 <hr />
 <details>
