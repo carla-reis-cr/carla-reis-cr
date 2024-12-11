@@ -15,8 +15,9 @@
 💻 Além disso, tenho experiência em projetos e estudos nas linguagens **C** e **Java** e estou constantemente atualizando meu conhecimento em tecnologias como **React.js**, **React Native** e **Node.js**<br>
  
 ---
-</p>
 <!--
+</p>
+
 <details>
   <summary>📈 <b>GitHub Stats</b></summary>
   <br>
@@ -25,7 +26,7 @@
 <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carla-reis-cr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
--->
+
 </details>
 <hr />
 <details>
@@ -75,7 +76,10 @@
 </tr>
   </table>
 </details>
+
+-->
 <hr />
+
 <!--
 ![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
 -->
