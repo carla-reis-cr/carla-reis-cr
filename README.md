@@ -16,27 +16,11 @@
 
 ---
 
-## 💼 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Simulador de Atendimento](https://github.com/seu-usuario/simulador-atendimento) | Simula cenários de atendimento ao cliente para análise de performance com diferentes números de atendentes. | R, ggplot2, JSON |
-| [Classificador de Fake News](https://github.com/seu-usuario/classificador-fake-news) | Protótipo para detecção de fake news com base em modelos de linguagem. | Python, Hugging Face Transformers |
-| [Sistema de Controle de Vendas](https://github.com/seu-usuario/controle-vendas) | Planilha inteligente com macros para controle de entradas, CFOPs e relatórios fiscais. | Excel, VBA |
-
-*Adicione links reais ou ajuste os nomes conforme seus projetos.*
-
----
-
 ## 📫 Como Entrar em Contato
 
 - 📧 **E-mail:** [carla.cr.reis@gmail.com](mailto:carla.cr.reis@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/carla-reis-60888413b/)  
 - 💻 **GitHub:** [github.com/seu-usuario](https://github.com/carla-reis-cr)
-
----
-
-
 
 <hr />
 
@@ -44,4 +28,3 @@
 ![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
 
 </div>
--->
