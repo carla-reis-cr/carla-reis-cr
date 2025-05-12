@@ -5,12 +5,12 @@
 
 💼 **Atualmente trabalho na** [Cigam Software Corporativo S.A.](https://www.cigam.com.br), atuando com:
 - 💾 Desenvolvimento em **T-SQL (SQL Server)** e **PL/SQL (Oracle)**
-- 🔧 Manutenção de sistemas legados utilizando **Magic uniPaaS e xpa**
-- 🌐 Participação em projetos web como **Frontend**, com foco em **ReactJS**
+- 🔧 Manutenção de sistemas legados utilizando **Magic xpa**, low-code baseado em .NET
+- 🌐 Participação em projetos web (React.js e .NET)
 
 📚 **Outras experiências e interesses:**
-- Desenvolvimento em **C** e **Java**
-- Estudos contínuos em **React.js**, **React Native** e **Node.js**
+- Desenvolvimento em **C**, **Java**, **Python**
+- Estudos contínuos em **React.js**, **React Native**, **Node.js**, **Python** e **.NET**
 
 🚀 Apaixonada por tecnologia e sempre em busca de novos desafios para aprender e evoluir!
 
