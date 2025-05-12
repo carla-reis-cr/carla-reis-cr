@@ -18,15 +18,18 @@
 - **Desenvolvimento Web** — Frontend com React.js e integração com Node.js no backend.
 - **Engenharia de Software** — Padrões de projeto, boas práticas de versionamento e testes automatizados.
 
+✍️ **Criação de Conteúdo**
+- **Blog Técnico** — Compartilho artigos sobre desenvolvimento web, boas práticas em engenharia de software e tutoriais de ferramentas modernas no meu blog pessoal.
+- **Redes Sociais** — Produzo conteúdos no Instagram e LinkedIn abordando temas como carreira em tecnologia, dicas de programação e insights sobre o mercado.
+- **Projetos Educacionais** — Desenvolvo materiais didáticos e projetos open-source com foco em aprendizado e compartilhamento de conhecimento.
+
 🚀 Apaixonada por tecnologia e sempre em busca de novos desafios para aprender e evoluir!
 
----
-
-## 📫 Como Entrar em Contato
-
-- 📧 **E-mail:** [carla.cr.reis@gmail.com](mailto:carla.cr.reis@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/carla-reis-60888413b/)  
-- 💻 **GitHub:** [github.com/seu-usuario](https://github.com/carla-reis-cr)
+📬 **Entre em Contato**
+- 📧 [E-mail](carla.cr.reis@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/carla-reis-60888413b)
+- 💻 [Blog](carla-reis-cr.github.io/carlareis.dev)
+- 📸 [Instagram](https://www.instagram.com/carlareis.dev/)
 
 <hr />
 
