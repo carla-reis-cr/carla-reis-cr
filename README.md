@@ -11,6 +11,7 @@
 📚 **Outras experiências e interesses:**
 - Desenvolvimento em **C**, **Java**, **Python**
 - Estudos contínuos em **React.js**, **React Native**, **Node.js**, **Python** e **.NET**
+- Participação em projetos para a comunidade
 
 🚀 Apaixonada por tecnologia e sempre em busca de novos desafios para aprender e evoluir!
 
