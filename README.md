@@ -30,9 +30,9 @@
 
 ## 📫 Como Entrar em Contato
 
-- 📧 **E-mail:** [seu.email@dominio.com](mailto:seu.email@dominio.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)  
-- 💻 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)  
+- 📧 **E-mail:** [carla.cr.reis@gmail.com](mailto:carla.cr.reis@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/carla-reis-60888413b/)  
+- 💻 **GitHub:** [github.com/seu-usuario](https://github.com/carla-reis-cr)
 
 ---
 
