@@ -28,7 +28,7 @@
 📬 **Entre em Contato**
 - 📧 [E-mail](carla.cr.reis@gmail.com)
 - 💼 [LinkedIn](linkedin.com/in/carla-reis-60888413b)
-- 💻 [Blog](carla-reis-cr.github.io/carlareis.dev)
+- 💻 [Blog](https://carla-reis-cr.github.io/carlareis.dev/)
 - 📸 [Instagram](https://www.instagram.com/carlareis.dev/)
 
 <hr />
