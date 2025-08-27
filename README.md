@@ -1,7 +1,9 @@
 # 👩‍💻 Sobre Mim
 
 🎓 **Graduação:** Bacharel em Ciência da Computação pela [Universidade Feevale](https://www.feevale.br), com Mérito Acadêmico pelo desempenho destacado durante o curso
+
 🎓 **Formação Técnica:** Técnica em Contabilidade
+
 
 💼 **Atualmente trabalho na** [Cigam Software Corporativo S.A.](https://www.cigam.com.br), atuando com:
 - 💾 Desenvolvimento em **T-SQL (SQL Server)** e **PL/SQL (Oracle)**
