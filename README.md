@@ -1,41 +1,19 @@
-# 👩‍💻 Sobre Mim
 
-🎓 **Graduação:** Bacharel em Ciência da Computação pela [Universidade Feevale](https://www.feevale.br), com Mérito Acadêmico pelo desempenho destacado durante o curso
+# Hey 👋
 
-🎓 **Formação Técnica:** Técnica em Contabilidade
+My name is Carla Reis 👩🏼‍🇧🇷
 
+I’m a **Computer Scientist** (B.Sc. in Computer Science at [Universidade Feevale](https://www.feevale.br), with Academic Merit distinction), working in software development since 2019.  💻
 
-💼 **Atualmente trabalho na** [Cigam Software Corporativo S.A.](https://www.cigam.com.br), atuando com:
-- 💾 Desenvolvimento em **T-SQL (SQL Server)** e **PL/SQL (Oracle)**
-- 🔧 Manutenção de sistemas legados utilizando **Magic xpa**, low-code baseado em .NET
-- 🌐 Participação em projetos web (React.js e .NET)
+I started my career with **low-code development based on .NET**, evolving to work across **Front End, Back End and Databases** in large-scale systems. Today, I combine this expertise with personal projects in **Node.js, React.js and Mobile Apps**.
 
-📚 **Outras experiências:**
-- Desenvolvimentos pessoais em **C**, **Java**, **Python**
-- Estudos contínuos em **React.js**, **React Native**, **Node.js**, **Python** e **.NET**
-- Participação em projetos desenvolvidos para a comunidade acadêmica e civil
+✨ Passionate about technology, problem solving and sharing knowledge. Always open to new challenges and continuous learning.
 
-🔬 **Áreas de Pesquisa e Interesse**
-- **Processamento de Linguagem Natural (PLN)** — Extração de informações, análise de sentimentos, detecção de fake news.
-- **Desenvolvimento Web** — Frontend com React.js e integração com Node.js no backend.
-- **Engenharia de Software** — Padrões de projeto, boas práticas de versionamento e testes automatizados.
+### 🌍 "Se for fazer, faça bem feito" 🧠
 
-✍️ **Criação de Conteúdo**
-- **Blog Técnico** — Compartilho artigos sobre desenvolvimento web, boas práticas em engenharia de software e tutoriais de ferramentas modernas no meu blog pessoal.
-- **Redes Sociais** — Produzo conteúdos no Instagram e LinkedIn abordando temas como carreira em tecnologia, dicas de programação e insights sobre o mercado.
-- **Projetos Educacionais** — Desenvolvo materiais didáticos e projetos open-source com foco em aprendizado e compartilhamento de conhecimento.
+- 📍 From RS, Brazil
+- 🌈 Sharing my journey in tech and career insights at [Dev Sensata](https://www.instagram.com/carlareis.dev/) 
 
-🚀 Apaixonada por tecnologia e sempre em busca de novos desafios para aprender e evoluir!
+Reach me out 👇🏼
 
-📬 **Entre em Contato**
-- 📧 [E-mail](carla.cr.reis@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/carla-reis-60888413b)
-- 💻 [Blog](https://carla-reis-cr.github.io/carlareis.dev/)
-- 📸 [Instagram](https://www.instagram.com/carlareis.dev/)
-
-<hr />
-
-
-![Snake animation](https://github.com/carla-reis-cr/carla-reis-cr/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC-u5gIRx2MurT7IP4MCxSBg/videos)](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-reis-60888413b/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/carlareis.dev/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/carla-reis-cr)
