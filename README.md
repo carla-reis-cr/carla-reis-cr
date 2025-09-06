@@ -3,7 +3,7 @@
 
 My name is Carla Reis 👩🏼‍🇧🇷
 
-I’m a **Computer Scientist** (B.Sc. in Computer Science at [University Feevale](https://www.feevale.br), with Academic Merit distinction), working in software development since 2019.  💻
+I’m a **Computer Scientist** (B.Sc. in Computer Science at [Universidade Feevale](https://www.feevale.br), with Academic Merit distinction), working in software development since 2019.  💻
 
 I started my career with **low-code development based on .NET**, evolving to work across **Front End, Back End and Databases** in large-scale systems. Today, I combine this expertise with personal projects in **Node.js, React.js and Mobile Apps**.
 
@@ -16,6 +16,6 @@ I started my career with **low-code development based on .NET**, evolving to wor
 
 Reach me out 👇🏼
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC-u5gIRx2MurT7IP4MCxSBg/videos)](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-reis-60888413b/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/carlareis.dev/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://codepen.io/carla-reis-cr)[
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC-u5gIRx2MurT7IP4MCxSBg/videos)](https://www.youtube.com/channel/UC-u5gIRx2MurT7IP4MCxSBg/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-reis-60888413b/)](https://www.linkedin.com/in/carla-reis-60888413b/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlareis.dev/)](https://www.instagram.com/carlareis.dev/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/carla-reis-cr](https://codepen.io/carla-reis-cr))](https://codepen.io/carla-reis-cr)[
 ![Lattes Badge](https://img.shields.io/badge/-Lattes-006AFF?style=flat-square&labelColor=006AFF&logo=lattes&logoColor=white&link=http://lattes.cnpq.br/9155829553580362)
 ](http://lattes.cnpq.br/9155829553580362)
